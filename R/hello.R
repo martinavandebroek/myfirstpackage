@@ -14,7 +14,7 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 
-#'function hello
+#' The function hello
 #'
 #' @export
 hello <- function() {
